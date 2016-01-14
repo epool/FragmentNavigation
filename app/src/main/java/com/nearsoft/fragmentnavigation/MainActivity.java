@@ -1,0 +1,15 @@
+package com.nearsoft.fragmentnavigation;
+
+import android.os.Bundle;
+
+public class MainActivity extends BaseActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        goToFragment(new MainFragment(), false);
+    }
+
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragmentNavigation</string>
+
+    <string name="main_fragment">Main fragment</string>
+    <string name="step_1">Step 1</string>
+
+    <string name="step_1_fragment">Step 1 Fragment</string>
+    <string name="step_2">Step 2</string>
+
+    <string name="step_2_fragment">Step 2 Fragment</string>
+    <string name="back">Back</string>
+</resources>
